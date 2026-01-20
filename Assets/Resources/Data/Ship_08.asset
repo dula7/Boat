@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 841e510654e081e42a9fee3739669edf, type: 3}
+  m_Name: Ship_08
+  m_EditorClassIdentifier: 
+  itemID: 8
+  itemName: yacht
+  price: 12
+  icon: {fileID: 21300000, guid: 7552fd827bdcdad40ae44cc5abde5eb0, type: 3}
+  type: 0
+  prefab: {fileID: 1695280755050019373, guid: ad37b6c27dbc21f4fb3acabd370e9019, type: 3}
+  gamePrefab: {fileID: 7466089662628290300, guid: cf8b074d715049a439837dae6946064c, type: 3}

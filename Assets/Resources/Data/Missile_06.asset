@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 841e510654e081e42a9fee3739669edf, type: 3}
+  m_Name: Missile_06
+  m_EditorClassIdentifier: 
+  itemID: 106
+  itemName: submarine
+  price: 5
+  icon: {fileID: 21300000, guid: ce4a93594fde1aa4191e1a2e031f0003, type: 3}
+  type: 1
+  prefab: {fileID: 2109644495720564765, guid: da033057ffbfc314baca450aabc6d463, type: 3}
+  gamePrefab: {fileID: 8891862787904184809, guid: f03ef92e213a08142ada5da841b4390f, type: 3}

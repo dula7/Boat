@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 841e510654e081e42a9fee3739669edf, type: 3}
+  m_Name: Ship_06
+  m_EditorClassIdentifier: 
+  itemID: 6
+  itemName: wooden raft
+  price: 12
+  icon: {fileID: 21300000, guid: 85354e1d5b6c3ae4db17ec41cc54e705, type: 3}
+  type: 0
+  prefab: {fileID: 6897634412569623894, guid: 737ed29f142d4d846ad9b1948373f40a, type: 3}
+  gamePrefab: {fileID: 5406427805182941735, guid: c56d4b36a632a0e448de344c49bc0b53, type: 3}

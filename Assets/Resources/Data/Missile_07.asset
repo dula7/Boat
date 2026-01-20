@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 841e510654e081e42a9fee3739669edf, type: 3}
+  m_Name: Missile_07
+  m_EditorClassIdentifier: 
+  itemID: 107
+  itemName: cell
+  price: 5
+  icon: {fileID: 21300000, guid: 36141fb37fd5cec468c47f8dfddb9ce6, type: 3}
+  type: 1
+  prefab: {fileID: 1685568856265678232, guid: 7cc09da4b0835544c91a95c3b9c658ca, type: 3}
+  gamePrefab: {fileID: 2871125956288484776, guid: 710c2bb53a7ce704190b4ecfbc6e70bc, type: 3}
